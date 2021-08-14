@@ -3,7 +3,11 @@
 
 ## 構成
 
+- `README.md`
 - `package.json`
+- `.gitignore`
+- `pages/index.vue`
+- `pages/fun.vue`
 
 ## 前提
 
